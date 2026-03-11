@@ -1,0 +1,16 @@
+# Node
+node_modules
+dist
+.env
+
+# Go
+*.exe
+backend/**/telemetry-svc
+backend/**/gateway-svc
+backend/**/auth-svc
+backend/**/orders-svc
+backend/**/inventory-svc
+
+# OS
+.DS_Store
+Thumbs.db
