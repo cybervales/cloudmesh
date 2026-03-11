@@ -3,13 +3,8 @@ node_modules
 dist
 .env
 
-# Go
+# Go binaries
 *.exe
-backend/**/telemetry-svc
-backend/**/gateway-svc
-backend/**/auth-svc
-backend/**/orders-svc
-backend/**/inventory-svc
 
 # OS
 .DS_Store
